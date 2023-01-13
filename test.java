@@ -1,20 +1,23 @@
 
-package test;
+package tpfinal;
+//importamos la clase escaner
 import javax.swing.JOptionPane;
+
 /**
  *
  * @author joaquin
  */
-public class test {
+public class tpfinal {
+     public static void main(String[] args) {
+        
+ 
 
   /*
 Codigo origianlmente creado en Psint por el grupo tapita coca cola 1974
 el programa tiene la funcionalidad de ser un conversor de distintas divisas.
  */
 
-//importamos la clase escaner
 
-    public static void main(String[] args) {
         
                
        //definimos nuestras variables que utilizaremos en el programa
@@ -314,6 +317,7 @@ el programa tiene la funcionalidad de ser un conversor de distintas divisas.
         
         JOptionPane.showMessageDialog(null,"gracias por usar este programa :)");
         
-    }
+    }         
+       
+    
 }
-
